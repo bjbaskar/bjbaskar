@@ -5,6 +5,8 @@ I'm a passionate self-taught **Full Stack Experience Developer** from **Singapor
 Some technologies I enjoy working with include ReactJS, TypeScript Redux, GraphQL, NodeJS, C#.Net Core.
 I take great care in the experience, architecture, and code quality of the things I build.
 
+:seedling: :herb: I’m currently learning Python, Flask :palm_tree: :evergreen_tree:
+
 <h3 align="left">Technical Stack :hammer_and_pick:</h3>
 
 
