@@ -28,4 +28,4 @@ I take great care in the experience, architecture, and code quality of the thing
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bjbaskar" alt="bjbaskar" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/bjbaskar" target="blank"><img src="https://img.shields.io/twitter/follow/bjbaskar?logo=twitter&style=for-the-badge" alt="bjbaskar" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bjbaskar" target="_blank"><img src="https://img.shields.io/twitter/follow/bjbaskar?logo=twitter&style=for-the-badge" alt="bjbaskar" /></a> </p>
