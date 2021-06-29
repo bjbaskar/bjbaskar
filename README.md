@@ -7,12 +7,6 @@ I take great care in the experience, architecture, and code quality of the thing
 
 #### Technical Stack :hammer_and_pick:
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bjbaskar&label=Profile%20views&color=0e75b6&style=flat" alt="bjbaskar" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bjbaskar" alt="bjbaskar" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/bjbaskar" target="blank"><img src="https://img.shields.io/twitter/follow/bjbaskar?logo=twitter&style=for-the-badge" alt="bjbaskar" /></a> </p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/bjbaskar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bjbaskar" height="30" width="40" /></a>
@@ -28,3 +22,10 @@ I take great care in the experience, architecture, and code quality of the thing
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bjbaskar&show_icons=true&locale=en" alt="bjbaskar" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bjbaskar&" alt="bjbaskar" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bjbaskar&label=Profile%20views&color=0e75b6&style=flat" alt="bjbaskar" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bjbaskar" alt="bjbaskar" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/bjbaskar" target="blank"><img src="https://img.shields.io/twitter/follow/bjbaskar?logo=twitter&style=for-the-badge" alt="bjbaskar" /></a> </p>
