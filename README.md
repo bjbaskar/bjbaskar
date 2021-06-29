@@ -7,6 +7,8 @@ I take great care in the experience, architecture, and code quality of the thing
 
 :seedling: :herb:  I’m currently learning Python, Flask :palm_tree: :evergreen_tree:
 
+:rainbow: Life long learner :trophy: :1st_place_medal: :1st_place_medal:
+
 <h3 align="left">Technical Stack :hammer_and_pick:</h3>
 
 
