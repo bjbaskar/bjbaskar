@@ -5,7 +5,7 @@ I'm a passionate self-taught **Full Stack Experience Developer** from **Singapor
 Some technologies I enjoy working with include ReactJS, TypeScript Redux, GraphQL, NodeJS, Python, C#.Net Core.
 I take great care in the experience, architecture, and code quality of the things I build.
 
-:seedling:  I’m currently working on Python, FastAPI / Flask :palm_tree: :evergreen_tree:
+:seedling:  I’m currently working on React,ReactNative, Python, FastAPI / Flask :palm_tree: :evergreen_tree:
 
 :rainbow: Life long learner :trophy: :1st_place_medal: :1st_place_medal:
 
