@@ -2,10 +2,10 @@
 
 I'm a dedicated, self-taught **Full Stack Experience Developer** based in **Singapore**.
 
-Some technologies I enjoy working with include ReactJS, NextJS, ReactNative, TypeScript, Redux, GraphQL, NodeJS, Python, .
-I take great care in the experience, architecture, and code quality of the things I build.
+I enjoy working with technologies such as ReactJS, NextJS, ReactNative, TypeScript, Redux, GraphQL, NodeJS, Python, .
+I take great care in the experience, architecture, and code quality of the projects I build.
 
-:seedling:  I’m currently working on React,ReactNative, Python, FastAPI, NodeJS, TypeScript :palm_tree: 
+:seedling:  Currently, I'm working with React, NextJS, React Native, Python, FastAPI, NodeJS, and TypeScript. :palm_tree: 
 
 :rainbow: Life long learner :trophy: :1st_place_medal: :1st_place_medal:
 
