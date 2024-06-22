@@ -7,7 +7,7 @@ I take great care in the experience, architecture, and code quality of the proje
 
 :seedling:  Currently, I'm working with React, NextJS, React Native, Python, FastAPI, NodeJS, and TypeScript. :palm_tree: 
 
-:rainbow: Life long learner :trophy: :1st_place_medal: :1st_place_medal:
+Life long learner :trophy: :1st_place_medal: :1st_place_medal:
 
 <h3 align="left">Technical Stack :hammer_and_pick:</h3>
 
