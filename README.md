@@ -1,13 +1,18 @@
-### Hi, I'm Baskaran :pray:
+### Hi, I'm Baskaran 👋🙏
 
-I'm a dedicated, self-taught **Full Stack Experience Developer** based in **Singapore**.
+I'm a passionate, self-taught Full-Stack Developer based in Singapore, with a strong focus on building intuitive user experiences and scalable, maintainable applications.
 
-I enjoy working with technologies such as ReactJS, NextJS, ReactNative, TypeScript, Redux, GraphQL, NodeJS, Python.
-I take great care in the experience, architecture, and code quality of the projects I build.
+💻 Technologies I Work With
 
-:seedling:  Currently, I'm working with React, NextJS, React Native, Python, FastAPI, NodeJS, and TypeScript. :palm_tree: 
+I enjoy working with a wide range of technologies, including React.js, Next.js, React Native, TypeScript, Redux, GraphQL, Node.js, Python, and FastAPI.
 
-Life long learner :trophy: :1st_place_medal: :1st_place_medal:
+🚀 Currently Exploring & Building
+
+I'm currently working with React, Next.js, React Native, Python, FastAPI, Node.js, and TypeScript, continuously improving my skills and building meaningful digital experiences.
+
+🌱 Lifelong Learner
+
+I believe in continuous learning, embracing new challenges, and growing through every project. There's always something new to learn and something better to build! 
 
 <h3 align="left">Technical Stack :hammer_and_pick:</h3>
 
